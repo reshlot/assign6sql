@@ -1,0 +1,8 @@
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\bin\Debug\ProductInventorySystem.exe.config
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\bin\Debug\ProductInventorySystem.exe
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\bin\Debug\ProductInventorySystem.pdb
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\obj\Debug\ProductInventorySystem.csproj.AssemblyReference.cache
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\obj\Debug\ProductInventorySystem.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\obj\Debug\ProductInventorySystem.csproj.CoreCompileInputs.cache
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\obj\Debug\ProductInventorySystem.exe
+D:\Simplilearn\SQL\Assessments\Assign-6\ProductInventorySystem\ProductInventorySystem\obj\Debug\ProductInventorySystem.pdb
